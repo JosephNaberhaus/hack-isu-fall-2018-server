@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/maxdevos49/Fall2018Hackathon#readme",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.19.2",
     "formidable": "^1.2.1",
     "ip": "*",
     "mongodb": "*",
